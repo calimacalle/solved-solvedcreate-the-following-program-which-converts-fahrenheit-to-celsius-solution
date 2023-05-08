@@ -1,0 +1,5 @@
+Download Link: https://assignmentchef.com/product/solved-solvedcreate-the-following-program-which-converts-fahrenheit-to-celsius-solution
+<br>
+Create the following program which converts Fahrenheit to Celsius. Your program must have the following functions:
+
+Read integer Fahrenheit temperatures from the user. You need to check whether the input is the correct one or not. If the user enters the incorrect number, ask it again.Use the formula: Celsius = (Fahrenheit – 32) * 5.0 / 9.0The output Celsius should be a floating point with two digits of precision.The Celsius temperatures should be displayed with a sign of positive or negative.The program should ask the user to continue or not. If the user wants to do the conversion again, use repetitive statements such as DO WHILE, FOR, or IF THEN ELSE to do the conversion again.Add comments to explain the functions of the program.
